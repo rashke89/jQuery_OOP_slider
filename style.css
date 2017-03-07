@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 600px;
+	height: 300px;
+	margin: 70px auto;
+	overflow: hidden;
+}
+ul{
+	width: 10000px;
+	list-style: none;
+	height: 300px;
+}
+ul img{
+	width: 600px;
+	height: 300px;
+	float: left;
+}
+.navigacija{
+	width: 600px;
+	height: 40px;
+	margin: 0 auto;
+	text-align: center;
+}
+button{
+	width: 200px;
+	height: 40px;
+	line-height: 40px;
+	text-align: center;
+	background-color: #eee;
+}
